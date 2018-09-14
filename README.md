@@ -22,6 +22,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## node packages used
 
-vee-validate
-
-vue router
+* vee-validate
+* vue router
